@@ -1,0 +1,5 @@
+{
+    "about":  "the gz-style practice menu for Ocarina of Time (Switch 2), game 1.1.1 / 1.0.0",
+    "asset":  "^sloperinaGZ-[0-9.]+\\.zip$",
+    "github":  "PracticeROM/sloperina"
+}
